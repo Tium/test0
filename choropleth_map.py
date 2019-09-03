@@ -1,6 +1,5 @@
 import numpy as np  # useful for many scientific computing in Python
 import pandas as pd  # primary data structure library
-from PIL import Image  # converting images into arrays
 import folium
 
 df_can = pd.read_excel('.\\immigration-to-canada-ibm-dataset\\Canada.xlsx',
